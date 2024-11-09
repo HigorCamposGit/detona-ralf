@@ -1,4 +1,4 @@
-# Desafio Jogo Detona Ralph
+# Desafio Jogo Detona Ralf
 
 # Tecnologias Utilizadas
 - HTML5 para estrutura.
